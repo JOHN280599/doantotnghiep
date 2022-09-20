@@ -1,0 +1,11 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "dashboard-evi": "~1.0.2",
+        "node-red-contrib-mqtt-broker": "~0.2.9",
+        "node-red-node-ui-table": "~0.4.3"
+    }
+}
